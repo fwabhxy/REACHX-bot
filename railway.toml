@@ -3,6 +3,3 @@ builder = "nixpacks"
 
 [deploy]
 startCommand = "python bot.py"
-
-[nixpacks]
-pythonVersion = "3.11"
